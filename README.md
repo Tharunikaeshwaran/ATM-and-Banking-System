@@ -105,7 +105,7 @@ Demonstrate the logic of an algorithm.
 
 Describe the steps performed in a UML use case.
 
-<img width="928" height="743" alt="image" src="https://github.com/user-attachments/assets/0c98041f-ba8f-485f-addc-5b771ada6bd8" />
+<img width="928" height="728" alt="Screenshot 2026-11-02 152032" src="https://github.com/user-attachments/assets/dad8f84c-6de9-4844-8662-41fac3714974" />
 
 
 
